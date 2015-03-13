@@ -1,3 +1,3 @@
-RateMyMehendi App
+Mehendi App
 
-Basically provides users to upload designs and others can comment, share or like that designs. ghhg
+Basically provides users to upload designs and others can comment, share or like mehendi designs. ghhg
